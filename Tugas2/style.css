@@ -49,4 +49,5 @@ body
 
 nav{
     display: flex;
+    width: 75%;
 }
