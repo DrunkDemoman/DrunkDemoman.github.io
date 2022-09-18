@@ -24,7 +24,7 @@ body
     align-items: center;
     color: white;
     margin: auto;
-    
+    display: flex;
 }
 
 .MenuEntries
@@ -36,11 +36,14 @@ body
 }
 *{
     margin: 0;
-    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-color: currentColor;
     
 }
 
 .link
 {
     text-decoration: none;
+    text-decoration-color: currentColor;
+
 }
