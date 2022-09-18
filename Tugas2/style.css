@@ -15,6 +15,7 @@ header
 body
 {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: salmon;
 }
 
 .MainLogo
@@ -49,4 +50,20 @@ nav{
     align-items: center;
     font-size: larger;
 
+}
+
+.mainBody
+{
+    width: 100%;
+    height: auto;
+    align-self: center;
+}
+.news
+{
+    width: 70%;
+}
+.categories
+{
+    width: 30%;
+    align-self: right;
 }
