@@ -25,11 +25,6 @@ body
     display: flex;
 }
 
-.MenuEntries
-{
-    font-size: large;
-    text-align: center;
-}
 *{
     margin: 0;
     text-decoration-line: none;
@@ -49,4 +44,7 @@ nav{
     flex: auto;
     width: 75%;
     justify-content: space-around;
+    font-size: large;
+    text-align: center;
+
 }
