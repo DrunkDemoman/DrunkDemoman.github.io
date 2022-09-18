@@ -21,6 +21,7 @@ header
 body
 {
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 .MainLogo
@@ -81,4 +82,9 @@ nav{
 
 article{
     display: flex;
+}
+
+li
+{
+    list-style: none;
 }
