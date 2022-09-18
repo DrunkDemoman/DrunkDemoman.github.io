@@ -63,7 +63,6 @@ nav{
     display: flex;
     
     align-self: center;
-    position: relative;
 }
 .news
 {
@@ -77,4 +76,8 @@ nav{
     align-self: right;
     display: flex;
     flex-direction: column;
+}
+
+article{
+    display: flex;
 }
