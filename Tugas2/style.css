@@ -30,10 +30,14 @@ body
 {
     height: 100%;
     width: 60px;
-    margin: auto;
     float: left;
     text-align: center;
 }
 *{
     margin: 0;
+}
+
+.link
+{
+    color: white;
 }
