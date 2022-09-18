@@ -20,7 +20,7 @@ body
 .MainLogo
 {
     width: 25%;
-    align-items: left;
+    align-items: center;
     color: white;
     display: flex;
 }
