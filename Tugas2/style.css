@@ -1,13 +1,14 @@
 header
 {
     position: fixed;
-    width: 100%;
+    width: 100vw;
     height: 4rem;
     background-color: tomato;
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-bottom: 12px;
-    padding-right: 20px;
+    padding-top: 4px;
+    padding-left: 4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
+    margin: auto;
 }
 
 body
@@ -21,5 +22,15 @@ body
     height: 100%;
     align-items: center;
     color: white;
+    margin: auto;
     
+}
+
+.MenuEntries
+{
+    height: 100%;
+    width: 60px;
+    margin: auto;
+    float: left;
+    text-align: center;
 }
