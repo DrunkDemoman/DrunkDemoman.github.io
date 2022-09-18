@@ -88,3 +88,15 @@ li
 {
     list-style: none;
 }
+
+.ar-img
+{
+    min-width: 350px;
+    height: 200px ;
+}
+
+article
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
