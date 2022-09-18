@@ -21,7 +21,7 @@ body
 {
     width: 25%;
     height: 100%;
-    align-items: center;
+    align-items: left;
     color: white;
     margin: auto;
     display: flex;
