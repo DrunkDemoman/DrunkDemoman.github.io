@@ -46,5 +46,7 @@ nav{
     justify-content: space-around;
     font-size: large;
     text-align: center;
+    align-items: center;
+    font-size: larger;
 
 }
