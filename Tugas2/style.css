@@ -1,3 +1,9 @@
+.website
+{
+    background-color: salmon;
+
+}
+
 header
 {
     position: fixed;
@@ -15,7 +21,6 @@ header
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: salmon;
 }
 
 .MainLogo
