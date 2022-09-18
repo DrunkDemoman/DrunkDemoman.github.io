@@ -27,6 +27,7 @@ body
 
 .MenuEntries
 {
+    font-size: large;
     height: 100%;
     width: 12%;
     float: left;
