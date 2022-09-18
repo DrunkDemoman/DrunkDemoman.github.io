@@ -9,6 +9,7 @@ header
     padding-bottom: 4px;
     padding-right: 4px;
     margin: auto;
+    display: flex;
 }
 
 body
@@ -35,9 +36,6 @@ body
 }
 *{
     margin: 0;
+    text-decoration: none;
 }
 
-.link
-{
-    color: white;
-}
